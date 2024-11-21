@@ -1,11 +1,5 @@
 # Multi-Class-Prediction-of-Obesity-Risk
 
-以下是包含 MATLAB 腳本詳細信息的 README 文件更新版本，將兩個 MATLAB 腳本的用途及其相關的 Python 工作流程都集成進去：
-
----
-
-# Multi-Class Prediction of Obesity Risk
-
 ## Project Description
 This project focuses on predicting obesity risk using advanced machine learning techniques. MATLAB is used for Exploratory Data Analysis (EDA) and preprocessing, while Python is employed for machine learning model training and evaluation. The final deployment includes a UI built in Python to integrate the best-performing model, LightGBM.
 
