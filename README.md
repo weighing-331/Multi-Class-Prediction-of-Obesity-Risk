@@ -101,5 +101,3 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-如果需要進一步修改或調整，請告訴我！
